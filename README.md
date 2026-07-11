@@ -1,4 +1,3 @@
-# Telecom-Customer-Segmentation-Analysis-
 # 📊 Telecom Customer Segmentation Analysis
 
 An end-to-end Data Analytics project that transforms raw telecom customer data into actionable business insights using Python, SQL-style analytical thinking, Machine Learning, and Power BI.
@@ -180,6 +179,10 @@ The interactive Power BI dashboard provides:
 
 > Add dashboard screenshot here.
 
+![Dashboard 1](images/dashboard_image1.png)
+
+![Dashboard 2](images/dashboard_image2.png)
+
 ---
 
 # 📄 Project Deliverables
@@ -190,8 +193,3 @@ The interactive Power BI dashboard provides:
 - ✔ Anomaly Detection
 - ✔ Business Insights Report
 - ✔ Interactive Power BI Dashboard
-
-
-GitHub: *(Add Link)*
-
-LinkedIn: *(Add Link)*
