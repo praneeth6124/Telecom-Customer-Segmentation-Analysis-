@@ -177,7 +177,6 @@ The interactive Power BI dashboard provides:
 
 # 📸 Dashboard Preview
 
-> Add dashboard screenshot here.
 
 ![Dashboard 1](Images/Dashboard_image1.png)
 
