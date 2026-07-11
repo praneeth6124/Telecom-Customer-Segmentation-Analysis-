@@ -173,7 +173,7 @@ The report covers:
 - Business Recommendations
 - Conclusion
 
-**📄 Report:** [`Report/Telecom_Customer_Segmentation_Report.pdf`](Report/Telecom_Customer_Segmentation_Report.pdf)
+**📄 Report:** [`Report/Telecom Customer Segmentation.pdf`](Report/Telecom Customer Segmentation.pdf)
 
 ---
 
