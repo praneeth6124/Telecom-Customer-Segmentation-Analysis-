@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Segmentation Analysis
+# Telecom Customer Segmentation Analysis
 
 An end-to-end Data Analytics project that transforms raw telecom customer data into actionable business insights using Python, SQL-style analytical thinking, Machine Learning, and Power BI.
 
@@ -6,7 +6,7 @@ The project focuses on understanding customer behavior, identifying high-risk cu
 
 ---
 
-# 📌 Business Problem
+# Business Problem
 
 Telecom companies lose significant revenue due to customer churn.
 
@@ -22,7 +22,7 @@ This project answers those questions using a complete analytics workflow.
 
 ---
 
-# 🚀 Project Workflow
+# Project Workflow
 
 ```
 Raw Dataset
@@ -61,7 +61,7 @@ Business Report
 
 ---
 
-# 🛠 Tools & Technologies
+# Tools & Technologies
 
 ### Data Analysis
 
@@ -88,7 +88,7 @@ Business Report
 
 ---
 
-# 📊 Analysis Performed
+# Analysis Performed
 
 ## Data Cleaning
 
@@ -141,7 +141,7 @@ Isolation Forest was used to identify customers with unusual behavioral patterns
 
 ---
 
-# 📈 Dashboard Highlights
+# Dashboard Highlights
 
 The interactive Power BI dashboard provides:
 
@@ -156,7 +156,28 @@ The interactive Power BI dashboard provides:
 
 ---
 
-# 💡 Key Business Insights
+## 📄 Project Report
+
+A detailed project report is included in this repository to document the complete analysis process and the business insights derived from the data.
+
+The report covers:
+
+- Business Problem & Objectives
+- Dataset Overview
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Customer Segmentation Methodology
+- Power BI Dashboard Overview
+- Key Business Insights
+- Business Recommendations
+- Conclusion
+
+**📄 Report:** [`reports/Customer_Segmentation_Report.pdf`](Report/Telecom_Customer_Segmentation_Report.pdf)
+
+---
+
+# Key Business Insights
 
 - Analyzed over **7,000 telecom customers**.
 - Identified **two distinct customer segments**.
@@ -166,7 +187,7 @@ The interactive Power BI dashboard provides:
 
 ---
 
-# 📋 Business Recommendations
+# Business Recommendations
 
 - Prioritize retention campaigns for high-value customers.
 - Encourage Month-to-Month customers to move toward long-term contracts.
@@ -175,7 +196,7 @@ The interactive Power BI dashboard provides:
 
 ---
 
-# 📸 Dashboard Preview
+# Dashboard Preview
 
 
 ![Dashboard 1](Images/Dashboard_image1.png)
@@ -184,7 +205,7 @@ The interactive Power BI dashboard provides:
 
 ---
 
-# 📄 Project Deliverables
+# Project Deliverables
 
 - ✔ Data Cleaning Notebook
 - ✔ Exploratory Data Analysis
